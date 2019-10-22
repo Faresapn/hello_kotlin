@@ -1,0 +1,2 @@
+resultA is Result is 39
+resultB is Result is 17
